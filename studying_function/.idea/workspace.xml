@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2160f11-1266-4831-ae91-3bfaf35e32fe" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/def_gugudan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mandoo_wage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_func.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../studying_if/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../studying_if/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mandoo_wage.py" beforeDir="false" afterPath="$PROJECT_DIR$/mandoo_wage.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +13,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/studying_function$study_func.coverage" NAME="study_func Coverage Results" MODIFIED="1530606451899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/studying_function$mandoo_wage.coverage" NAME="mandoo_wage Coverage Results" MODIFIED="1530609473062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/studying_function$mandoo_wage.coverage" NAME="mandoo_wage Coverage Results" MODIFIED="1530628007511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/studying_function$def_gugudan.coverage" NAME="def_gugudan Coverage Results" MODIFIED="1530606215210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
@@ -34,8 +30,8 @@
       <file leaf-file-name="mandoo_wage.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mandoo_wage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="90">
+              <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -80,9 +76,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="788" />
+    <option name="x" value="648" />
     <option name="y" value="51" />
-    <option name="width" value="1110" />
+    <option name="width" value="1250" />
     <option name="height" value="840" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -210,7 +206,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="788" y="51" width="1110" height="840" extended-state="0" />
+    <frame x="648" y="51" width="1250" height="840" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -220,7 +216,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954297" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22123177" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32958803" />
@@ -259,8 +255,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mandoo_wage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="90">
+          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
         </state>
       </provider>
     </entry>
