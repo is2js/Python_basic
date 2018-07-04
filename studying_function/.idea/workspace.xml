@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2160f11-1266-4831-ae91-3bfaf35e32fe" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/write_txt_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/write_txt_file.py" afterDir="false" />
-    </list>
+    <list default="true" id="c2160f11-1266-4831-ae91-3bfaf35e32fe" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -248,7 +246,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29565218" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29565218" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22123177" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
