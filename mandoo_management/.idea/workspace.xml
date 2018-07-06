@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa970776-622b-453e-b76a-3bd3b9934ef4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/csv_read_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv_write_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csv_to_python_to_csv_practice/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csv_to_python_to_csv_practice/practice_by_csv_module.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../csv_to_python_to_csv_practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../csv_to_python_to_csv_practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_to_python_to_csv_practice/employee_list.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../csv_to_python_to_csv_practice/employee_list.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_to_python_to_csv_practice/result.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee_list.csv" beforeDir="false" afterPath="$PROJECT_DIR$/employee_list.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee_result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/employee_result.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mandoo_wage_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/mandoo_wage_calculator.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,8 +27,8 @@
       <file leaf-file-name="mandoo_wage_calculator.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mandoo_wage_calculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="382">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -85,17 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="mandoo_management" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mandoo_management" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -116,6 +103,17 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="mandoo_management" type="cbb8eebc:String" user="mandoo_management" />
               <item name=".idea" type="cbb8eebc:String" user=".idea" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mandoo_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mandoo_management" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -254,9 +252,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32919255" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32919255" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32919255" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25860623" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -284,6 +282,16 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mandoo_wage_calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/practice_string.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -453,8 +461,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mandoo_wage_calculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="382">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
