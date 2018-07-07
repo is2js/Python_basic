@@ -56,7 +56,7 @@ document.add_heading('출근직원의 시급과 일당', 2)
 table = document.add_table(rows=1, cols=6)
 #테이블 스타일 지정
 table.style = 'table'
-#첫ROW
+#첫ROW만, 직접 적어준다. 특이하게, 각 첫행의 각 셀들을 리스트변수로 받는다.
 hdr_cells = table.rows[0].cells
 hdr_cells[0].text = '이름'
 hdr_cells[1].text = '출근'

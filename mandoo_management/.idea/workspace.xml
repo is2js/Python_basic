@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa970776-622b-453e-b76a-3bd3b9934ef4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../csv_to_python_to_csv_practice/form.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csv_to_python_to_csv_practice/form_save.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studying_pandas/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_to_python_to_csv_practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../csv_to_python_to_csv_practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_to_python_to_csv_practice/employee_list.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../csv_to_python_to_csv_practice/employee_list.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_to_python_to_csv_practice/practice_by_csv_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csv_to_python_to_csv_practice/practice_by_csv_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_to_python_to_csv_practice/result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../csv_to_python_to_csv_practice/result.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.docx" beforeDir="false" afterPath="$PROJECT_DIR$/demo.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee_list.csv" beforeDir="false" afterPath="$PROJECT_DIR$/employee_list.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee_result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/employee_result.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mandoo_wage_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/mandoo_wage_calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$demo.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying_pandas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../studying_pandas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying_pandas/pandas_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../studying_pandas/pandas_excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studying_pandas/result.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../studying_pandas/result.xlsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="mandoo_wage_calculator.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mandoo_wage_calculator.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mandoo_wage_calculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+            <state relative-caret-position="214">
+              <caret line="58" column="46" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -37,47 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="employee.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/employee.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="docx_practice.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docx_practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="45" lean-forward="true" selection-start-line="28" selection-end-line="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="document.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/docx/parts/document.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="75" selection-start-line="75" selection-end-line="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="employee_list.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/employee_list.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="employee_result.csv" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/employee_result.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            <state relative-caret-position="162">
+              <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -130,6 +100,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mandoo_management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mandoo_management" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -150,17 +131,6 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="mandoo_management" type="cbb8eebc:String" user="mandoo_management" />
               <item name=".idea" type="cbb8eebc:String" user=".idea" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="mandoo_management" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mandoo_management" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -337,10 +307,9 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286445" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286445" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990476" visible="true" weight="0.26700252" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990476" visible="true" weight="0.27120066" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.50095236" side_tool="true" weight="0.26700252" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -351,6 +320,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,6 +335,51 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mandoo_wage_calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docx_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="45" lean-forward="true" selection-start-line="28" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/docx/parts/document.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee_list.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee_result.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mandoo_wage_calculator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -548,6 +563,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/docx/parts/document.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee_result.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/employee_list.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -555,41 +587,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/docx/parts/document.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/employee.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docx_practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="45" lean-forward="true" selection-start-line="28" selection-end-line="45" />
+        <state relative-caret-position="162">
+          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mandoo_wage_calculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+        <state relative-caret-position="214">
+          <caret line="58" column="46" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/employee_result.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
         </state>
       </provider>
     </entry>
