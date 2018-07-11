@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a039250-71c7-4a65-998f-f302126061ee" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/form.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form_save.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../studying_pandas/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee_list.csv" beforeDir="false" afterPath="$PROJECT_DIR$/employee_list.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_by_csv_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_by_csv_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mandoo_management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mandoo_management/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mandoo_management/mandoo_wage_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mandoo_management/mandoo_wage_calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../studying_pandas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../studying_pandas/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../studying_pandas/pandas_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../studying_pandas/pandas_excel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../studying_pandas/result.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../studying_pandas/result.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.docx" beforeDir="false" afterPath="$PROJECT_DIR$/result.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/csv_to_python_to_csv_practice$practice_by_csv_module.coverage" NAME="practice_by_csv_module Coverage Results" MODIFIED="1530971006281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csv_to_python_to_csv_practice$practice_by_csv_module.coverage" NAME="practice_by_csv_module Coverage Results" MODIFIED="1530971507527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/csv_to_python_to_csv_practice$practice.coverage" NAME="practice Coverage Results" MODIFIED="1530771733278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
@@ -31,7 +21,7 @@
       <file leaf-file-name="practice.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
+            <state relative-caret-position="337">
               <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="16" />
             </state>
           </provider>
@@ -40,8 +30,8 @@
       <file leaf-file-name="practice_by_csv_module.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practice_by_csv_module.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="77" column="2" selection-start-line="77" selection-start-column="2" selection-end-line="77" selection-end-column="28" />
+            <state relative-caret-position="363">
+              <caret line="71" column="37" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -241,7 +231,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20839813" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20839813" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2688928" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -399,13 +389,6 @@
     <entry file="file://$PROJECT_DIR$/../studying_if/studying_if.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/employee.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -434,10 +417,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/practice_by_csv_module.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="77" column="2" selection-start-line="77" selection-start-column="2" selection-end-line="77" selection-end-column="28" />
+        <state relative-caret-position="363">
+          <caret line="71" column="37" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
